@@ -23,7 +23,5 @@ namespace Assets
 				bullet.AddForce(Position.up * Force);
 			}	
 		}
-
-		
 	}
 }
