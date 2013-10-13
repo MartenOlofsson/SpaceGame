@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Bullet.cs" />
      <Compile Include="Assets\BulletCollision.cs" />
+     <Compile Include="Assets\FloorScript.cs" />
      <Compile Include="Assets\MainScript.cs" />
      <Compile Include="Assets\ShipScript.cs" />
      <Compile Include="Assets\StartSceneScript.cs" />
