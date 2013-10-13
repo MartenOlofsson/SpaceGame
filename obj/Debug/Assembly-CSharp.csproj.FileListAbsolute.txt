@@ -1,0 +1,10 @@
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\UnityEditor.dll
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\UnityEngine.dll
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\nunit.framework.dll
+C:\Hobbyprojekt\UnitySpaceGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Hobbyprojekt\UnitySpaceGame\obj\Debug\Assembly-CSharp.dll
+C:\Hobbyprojekt\UnitySpaceGame\obj\Debug\Assembly-CSharp.pdb
+C:\Hobbyprojekt\UnitySpaceGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
